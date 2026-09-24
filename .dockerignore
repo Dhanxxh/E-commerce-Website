@@ -1,7 +1,6 @@
-@@ -0,0 +1,9 @@
 **/node_modules
-backend/dist
-frontend/dist
+Backend/dist
+Frontend/dist
 .git
 **/.env
 **/.env.*
